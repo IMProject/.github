@@ -5,7 +5,7 @@ This project is created as an ecosystem to help other Embedded projects to save 
 - enters in bootloader over FLASH segment
 - enters in bootloader over RAM segment
 - enters in bootloader with button
-- copy and run Firmware from RAM
+- it can copy and run Firmware directly from RAM
 - it is  <b>self updatable </b>
 - <b>CRC32</b> protected communication with IMFlasher
 - capable of enabling <b>read protection</b> (RDP)
