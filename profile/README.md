@@ -13,7 +13,7 @@ This project is created as an ecosystem to help other Embedded projects to save 
 - generates 32 bytes long <b>unique board id</b>
 - informs IMFlasher with  <b>GIT branch/hash/tag info</b>
 - carry  <b>manufacturer id</b> for integration with a system
-- carry <b>product type</b> data for integration with a system \
+- carry <b>product type</b> data for integration with a system
 
 
 [IMFlasher](https://github.com/IMProject/IMFlasher) is a Qt application for flashing firmware by using a PC. \
