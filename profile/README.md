@@ -14,6 +14,7 @@ This project is created as an ecosystem to help other Embedded projects to save 
 - informs IMFlasher with  <b>GIT branch/hash/tag info</b>
 - carry  <b>manufacturer id</b> for integration with a system
 - carry <b>product type</b> data for integration with a system
+- running Firmware from external FLASH over QSPI (paid version)
 
 
 [IMFlasher](https://github.com/IMProject/IMFlasher) is a Qt application for flashing firmware by using a PC. \
