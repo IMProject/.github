@@ -2,7 +2,7 @@ This project is created as an ecosystem to help other Embedded projects to save 
 \
 [IMBootloader](https://github.com/IMProject/IMBootloader) is a bootloader with different features:
 - accepts <b>signed</b> Firmware
-- it is secure. It uses encrypted communication for firmware and bootloader update
+- it is <b>secure</b>. It uses encrypted communication for firmware and bootloader update
 - it can copy and run Firmware directly from RAM
 - it is  <b>self updatable </b>
 - enters in bootloader over FLASH segment
