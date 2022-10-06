@@ -19,7 +19,7 @@ This project is created as an ecosystem to help other Embedded projects to save 
 
 
 [IMFlasher](https://github.com/IMProject/IMFlasher) is a Qt application for flashing firmware by using a PC. \
-[IMLedBlink](https://github.com/IMProject/IMLedBlink) is a simple example that serves as a showcase of project capabilities.
+[IMLedBlink](https://github.com/IMProject/IMLedBlink) is a simple example that serves as a showcase of project capabilities. \
 [IMUtility](https://github.com/IMProject/IMUtility) repository with MISRA compatible Queue, CRC, data serialization/deserialization, base64... 
 
 
