@@ -18,7 +18,10 @@ This project is created as an ecosystem to help other Embedded projects to save 
 - running Firmware from external FLASH over QSPI (paid version)
 
 
-[IMFlasher](https://github.com/IMProject/IMFlasher) is a Qt application for flashing firmware by using a PC. \
+[IMFlasher](https://github.com/IMProject/IMFlasher) is a Qt application for flashing firmware or new bootloader by using a PC. \
+- multiplatform application
+- download files from [imtech.hr](https://imtech.hr) server
+
 [IMLedBlink](https://github.com/IMProject/IMLedBlink) is a simple example that serves as a showcase of project capabilities. \
 [IMUtility](https://github.com/IMProject/IMUtility) repository with MISRA compatible Queue, CRC, data serialization/deserialization, base64... 
 
