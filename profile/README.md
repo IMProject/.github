@@ -1,6 +1,6 @@
 This project is created as an ecosystem to help other Embedded projects to save some time for developing Bootloader and application for Flashing.\
 \
-[IMBootloader](https://github.com/IMProject/IMBootloader) is a bootloader with different features:
+[IMBootloader](https://github.com/IMProject/IMBootloader) is a bootloader with different features write in **C** following the **MISRA C 2012** guidelines:
 - accepts <b>signed</b> Firmware
 - it is <b>secure</b>. It uses encrypted communication for firmware and bootloader update
 - it can copy and run Firmware directly from RAM
