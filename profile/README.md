@@ -1,5 +1,11 @@
-This project is created as an ecosystem to help other Embedded projects to save some time for developing Bootloader and application for Flashing.\
-\
+## About
+This project is created as an ecosystem to help other Embedded projects to save some time for developing Bootloader and application for Flashing.
+
+## Discord
+Join to project's <b>Discord</b> group:
+https://discord.gg/r53FEqvz73
+
+## Repositories
 [IMBootloader](https://github.com/IMProject/IMBootloader) is a bootloader with different features write in **C** following the **MISRA C 2012** guidelines:
 - accepts <b>signed</b> Firmware
 - it is <b>secure</b>. It uses encrypted communication for firmware and bootloader update
@@ -27,5 +33,5 @@ This project is created as an ecosystem to help other Embedded projects to save 
 [IMUtility](https://github.com/IMProject/IMUtility) repository with MISRA compatible Queue, CRC, data serialization/deserialization, base64... 
 
 
-### Project Architecture
+### Architecture
 ![IMProject_architecture drawio](https://user-images.githubusercontent.com/10188706/166161827-8685d38a-fb8c-4b8a-bcd6-eb103b810c17.png)
