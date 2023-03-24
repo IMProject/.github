@@ -30,7 +30,7 @@ https://discord.gg/r53FEqvz73
 - download files from [imtech.hr](https://imtech.hr) server
 
 [IMLedBlink](https://github.com/IMProject/IMLedBlink) is a simple example that serves as a showcase of project capabilities. \
-[IMUtility](https://github.com/IMProject/IMUtility) repository with MISRA compatible Queue, CRC, data serialization/deserialization, base64... 
+[IMUtility](https://github.com/IMProject/IMUtility) A Safety-Critical Utility Code written in C (Queue, CRC, data serialization/deserialization, base64...) 
 
 
 ### Architecture
