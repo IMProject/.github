@@ -1,15 +1,15 @@
 ## About
-This project is created as an ecosystem to help other Embedded projects to save some time for developing Bootloader and application for Flashing.
+This project is created as an ecosystem to help other Embedded projects to save some time for developing Bootloaders and applications for Flashing.
 
 ## Discord
 Join to project's <b>Discord</b> group:
 https://discord.gg/r53FEqvz73
 
 ## Repositories
-[IMBootloader](https://github.com/IMProject/IMBootloader) is a bootloader with different features write in **C** following the **MISRA C 2012** guidelines:
+[IMBootloader](https://github.com/IMProject/IMBootloader) is a bootloader with different features written in **C** following the **MISRA C 2012** guidelines:
 - accepts <b>signed</b> Firmware
 - it is <b>secure</b>. It uses encrypted communication for firmware and bootloader update
-- it can copy and run Firmware directly from RAM
+- it can copy and run Firmware directly from the RAM
 - it is  <b>self updatable </b>
 - enters in bootloader over FLASH segment
 - enters in bootloader over RAM segment
@@ -24,7 +24,7 @@ https://discord.gg/r53FEqvz73
 - running Firmware from external FLASH over QSPI (paid version)
 
 
-[IMFlasher](https://github.com/IMProject/IMFlasher) is a Qt application for flashing firmware or new bootloader by using a PC. \
+[IMFlasher](https://github.com/IMProject/IMFlasher) is a Qt application for flashing firmware or a new bootloader by using a PC. \
 - multiplatform application
 - auto detect IMBootloder over USB
 - download files from [imtech.hr](https://imtech.hr) server
