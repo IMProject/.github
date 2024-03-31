@@ -27,7 +27,7 @@ https://discord.gg/r53FEqvz73
 [IMFlasher](https://github.com/IMProject/IMFlasher) is a Qt application for flashing firmware or a new bootloader by using a PC. \
 - multiplatform application
 - auto detect IMBootloder over USB
-- download files from [imtech.hr](https://imtech.hr) server
+- download files from [improject.imtech.hr](https://improject.imtech.hr) server
 
 [IMLedBlink](https://github.com/IMProject/IMLedBlink) is a simple example that serves as a showcase of project capabilities. \
 [IMUtility](https://github.com/IMProject/IMUtility) A Safety-Critical Utility Code written in C (Queue, CRC, data serialization/deserialization, base64...) 
