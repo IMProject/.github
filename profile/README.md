@@ -35,3 +35,10 @@ https://discord.gg/r53FEqvz73
 
 ### Architecture
 ![IMProject_architecture drawio](https://user-images.githubusercontent.com/10188706/166161827-8685d38a-fb8c-4b8a-bcd6-eb103b810c17.png)
+
+### Encryption
+![image](https://github.com/user-attachments/assets/59f0639e-1c5a-43f1-9d71-b7df66e4649d)
+
+### Encryption with Monocypher
+![image](https://github.com/user-attachments/assets/2f34f204-d6da-4605-b427-ff946c132f02)
+
