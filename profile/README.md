@@ -36,7 +36,10 @@ https://discord.gg/r53FEqvz73
 ### Architecture
 ![image](https://github.com/user-attachments/assets/ebfc06fc-89bf-44d4-9f69-76170536cffc)
 
-### Encryption
+### Client-Server Communication
+![image](https://github.com/user-attachments/assets/5bd7d945-9cb9-4065-bc0b-6517840e2f1b)
+
+### Encryption Monocypher
 ![image](https://github.com/user-attachments/assets/59f0639e-1c5a-43f1-9d71-b7df66e4649d)
 
 ### Encryption with Monocypher
